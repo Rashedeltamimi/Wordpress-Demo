@@ -30,7 +30,7 @@ This project involved designing and deploying a fault-tolerant, scalable, and se
 ### **Tier 3: Database Tier (Private)**
 * **Amazon RDS (MySQL):** A Multi-AZ deployment with a primary instance in `us-east-1b` and a synchronous standby in `us-east-1a` for automatic failover.
 
-![Architecture Diagram](./Media/Blank Diagram.svg)
+![Architecture Diagram](./Media/Blank.svg)
 
 ---
 
